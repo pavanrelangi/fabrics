@@ -1,0 +1,9 @@
+empid,firstname,lastname,age,dept,emailid,salary,Timestamp
+1,pavan,relangi,27,Developer,pavanrelangi@gmail.com,100000,21-09-2023 12:58
+2,rama,krishna,30,Manager,ramakrishna@gmail.com,200000,10-09-2023 01:09
+3,ware,house,28,Tester,warehouse@gmail.com,300000,11-09-2023 10:10
+1,pavan,kalyan,21,Jr.Devp,pavanrelangi@gmail.com,15000,20-09-2023 02:12
+4,modify,modi,45,Director,modi@gmail.com,3333333,21-09-2023 10:00
+3,ware,lake,23,null,warehouse@gmail.com,23232,12-09-2023 11:00
+2,rama,latest,null,Manager,ramakrishna@gmail.com,200000,08-09-2023 19:09
+6,time,null,29,time,time@gmail.com,1010101,21-09-2023 01:00
